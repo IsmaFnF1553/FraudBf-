@@ -1,0 +1,1291 @@
+{
+	"song": {
+		"events": [
+			[
+				78.9473684210526,
+				[
+					[
+						"Fuck Your Health",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				157.894736842105,
+				[
+					[
+						"karaokelyrics",
+						"set",
+						"enable shaders for better experience."
+					]
+				]
+			],
+			[
+				789.473684210526,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				1263.15789473684,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				1342.10526315789,
+				[
+					[
+						"karaokelyrics",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				1657.89473684211,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"1",
+						""
+					],
+					[
+						"zooming",
+						"0.95",
+						""
+					]
+				]
+			],
+			[
+				1736.84210526316,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				1894.73684210526,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				1973.68421052632,
+				[
+					[
+						"Play Animation",
+						"hurt",
+						"bf"
+					]
+				]
+			],
+			[
+				2052.63157894737,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				2131.57894736842,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				2210.52631578947,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				2368.42105263158,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				2526.31578947368,
+				[
+					[
+						"zooming",
+						"1.4",
+						""
+					],
+					[
+						"PhillyGlowLua",
+						"1",
+						"fdB3a6"
+					],
+					[
+						"black letterbox",
+						"0.2",
+						"60"
+					],
+					[
+						"Fuck Your Health bf icon on",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				12315.7894736842,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fraudbf"
+					],
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				12473.6842105263,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				12631.5789473684,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					],
+					[
+						"Fuck Your Health",
+						"1",
+						""
+					],
+					[
+						"Opponent Fade",
+						"12",
+						"0"
+					]
+				]
+			],
+			[
+				22421.0526315789,
+				[
+					[
+						"Opponent Fade",
+						"0.5",
+						"1"
+					],
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				22578.9473684211,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				22657.8947368421,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				22736.8421052632,
+				[
+					[
+						"Opponent Fade",
+						"10",
+						"0"
+					],
+					[
+						"Flash White",
+						"",
+						""
+					],
+					[
+						"zooming",
+						"1",
+						""
+					],
+					[
+						"Fuck Your Health bf icon on",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				27473.6842105263,
+				[
+					[
+						"Opponent Fade",
+						"0.5",
+						"1"
+					]
+				]
+			],
+			[
+				27789.4736842105,
+				[
+					[
+						"Opponent Fade",
+						"10",
+						"0"
+					]
+				]
+			],
+			[
+				32526.3157894737,
+				[
+					[
+						"Opponent Fade",
+						"0.5",
+						"1"
+					],
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				32684.2105263158,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				32842.1052631579,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					],
+					[
+						"Opponent Fade",
+						"11",
+						"0"
+					],
+					[
+						"zooming",
+						"1.4",
+						""
+					]
+				]
+			],
+			[
+				33000,
+				[
+					[
+						"Fuck Your Health enemy icon on",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				42631.5789473684,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				42789.4736842105,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				42868.4210526316,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				42947.3684210526,
+				[
+					[
+						"black letterbox",
+						"2",
+						"0"
+					]
+				]
+			],
+			[
+				42947.3684210526,
+				[
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"0"
+					]
+				]
+			],
+			[
+				44210.5263157895,
+				[
+					[
+						"zooming",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				45473.6842105263,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				46105.2631578947,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				46736.8421052631,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				47052.6315789474,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				47289.4736842105,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				47368.4210526316,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				47526.3157894737,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				47684.2105263158,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				47842.1052631579,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				47921.0526315789,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Opponent Fade",
+						"0",
+						"1"
+					],
+					[
+						"PhillyGlowLua",
+						"0",
+						""
+					],
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"0.5"
+					],
+					[
+						"black letterbox",
+						"0.2",
+						"60"
+					],
+					[
+						"Play Animation",
+						"hurt",
+						"bf"
+					],
+					[
+						"zooming",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				58105.2631578947,
+				[
+					[
+						"Flash White",
+						"1",
+						""
+					],
+					[
+						"Fuck Your Health",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				58421.0526315789,
+				[
+					[
+						"Fuck Your Health bf icon on",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				66947.3684210526,
+				[
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"0"
+					],
+					[
+						"PhillyGlowLua",
+						"1",
+						"fdB3a6"
+					],
+					[
+						"zooming",
+						"1.2",
+						""
+					],
+					[
+						"black letterbox",
+						"0.2",
+						"0"
+					]
+				]
+			],
+			[
+				67736.8421052631,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"0"
+					]
+				]
+			],
+			[
+				67815.7894736842,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"0"
+					]
+				]
+			],
+			[
+				67894.7368421052,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"0"
+					],
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				68052.6315789473,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						"0"
+					],
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				68210.5263157894,
+				[
+					[
+						"zooming",
+						"1.4",
+						""
+					],
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"1.5"
+					],
+					[
+						"PhillyGlowLua",
+						"0",
+						""
+					],
+					[
+						"black letterbox",
+						"0.2",
+						"60"
+					],
+					[
+						"Fuck Your Health",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				68526.3157894736,
+				[
+					[
+						"Fuck Your Health enemy icon on",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				77999.9999999999,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78157.894736842,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78315.7894736841,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					],
+					[
+						"Fuck Your Health bf icon on",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				88421.0526315789,
+				[
+					[
+						"Flash Black",
+						"",
+						""
+					],
+					[
+						"Cam Boom Speed",
+						"5",
+						"5"
+					],
+					[
+						"PhillyGlowLua",
+						"1",
+						"fdB3a6"
+					],
+					[
+						"Fuck Your Health",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				89052.6315789473,
+				[
+					[
+						"PhillyGlowLua",
+						"0",
+						"fdB3a6"
+					]
+				]
+			],
+			[
+				89684.2105263157,
+				[
+					[
+						"PhillyGlowLua",
+						"1",
+						"fdB3a6"
+					]
+				]
+			],
+			[
+				89763.1578947368,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				89999.9999999999,
+				[
+					[
+						"PhillyGlowLua",
+						"0",
+						"fdB3a6"
+					]
+				]
+			],
+			[
+				90157.894736842,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				90315.7894736841,
+				[
+					[
+						"PhillyGlowLua",
+						"1",
+						"fdB3a6"
+					],
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				90394.7368421052,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				90473.6842105262,
+				[
+					[
+						"PhillyGlowLua",
+						"0",
+						"fdB3a6"
+					],
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					],
+					[
+						"Play Animation",
+						"hurt",
+						"bf"
+					]
+				]
+			],
+			[
+				90631.5789473683,
+				[
+					[
+						"PhillyGlowLua",
+						"1",
+						"fdB3a6"
+					],
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				90710.5263157894,
+				[
+					[
+						"PhillyGlowLua",
+						"0",
+						"fdB3a6"
+					]
+				]
+			],
+			[
+				90789.4736842104,
+				[
+					[
+						"PhillyGlowLua",
+						"1",
+						"fdB3a6"
+					],
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				90868.4210526315,
+				[
+					[
+						"PhillyGlowLua",
+						"0",
+						"fdB3a6"
+					]
+				]
+			],
+			[
+				90947.3684210525,
+				[
+					[
+						"Cam Boom Speed",
+						"3",
+						"0.5"
+					],
+					[
+						"Flash White",
+						"",
+						""
+					],
+					[
+						"black letterbox",
+						"2",
+						"0"
+					],
+					[
+						"zooming",
+						"0.9",
+						""
+					],
+					[
+						"Fuck Your Health",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				100736.842105263,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100894.736842105,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				101052.631578947,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					],
+					[
+						"black letterbox",
+						"0.2",
+						"60"
+					],
+					[
+						"zooming",
+						"1",
+						""
+					],
+					[
+						"Fuck Your Health enemy icon on",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				106105.263157895,
+				[
+					[
+						"Fuck Your Health",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				110842.105263158,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				111000,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				111157.894736842,
+				[
+					[
+						"black letterbox",
+						"0.2",
+						"100"
+					],
+					[
+						"PhillyGlowLua",
+						"1",
+						"fdB3a6"
+					],
+					[
+						"Cam Boom Speed",
+						"2",
+						"0.5"
+					],
+					[
+						"zooming",
+						"1.2",
+						""
+					],
+					[
+						"Opponent Fade",
+						"0",
+						"0"
+					],
+					[
+						"Fuck Your Health bf icon on",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Opponent Fade",
+						"1",
+						"0.3"
+					]
+				]
+			],
+			[
+				120947.368421052,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				121105.263157895,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				121263.157894737,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					],
+					[
+						"Fuck Your Health enemy icon on",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				128842.105263158,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				129473.684210526,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				130105.263157895,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				130736.842105263,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				131052.631578947,
+				[
+					[
+						"Play Animation",
+						"hurt",
+						"bf"
+					],
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				131210.526315789,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				131368.421052631,
+				[
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"1"
+					],
+					[
+						"PhillyGlowLua",
+						"0",
+						""
+					],
+					[
+						"black letterbox",
+						"0.2",
+						"60"
+					],
+					[
+						"Opponent Fade",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				131368.421052631,
+				[
+					[
+						"Set Song Length",
+						"999999",
+						"3.14, cube out"
+					],
+					[
+						"Fuck Your Health",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				141157.894736842,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				141315.789473684,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				141473.684210526,
+				[
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"0"
+					],
+					[
+						"PhillyGlowLua",
+						"1",
+						"fdB3a6"
+					]
+				]
+			],
+			[
+				141789.47368421,
+				[
+					[
+						"PhillyGlowLua",
+						"0",
+						"fdB3a6"
+					],
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"1"
+					]
+				]
+			],
+			[
+				151578.947368421,
+				[
+					[
+						"PhillyGlowLua",
+						"1",
+						"fdB3a6"
+					],
+					[
+						"Cam Boom Speed",
+						"0.5",
+						"0"
+					]
+				]
+			],
+			[
+				151894.736842105,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				152052.631578947,
+				[
+					[
+						"Black Screen 1 sec effect",
+						"",
+						""
+					]
+				]
+			],
+			[
+				152131.578947368,
+				[
+					[
+						"Play Animation",
+						"hurt",
+						"bf"
+					]
+				]
+			],
+			[
+				152210.52631579,
+				[
+					[
+						"Image Flash",
+						"0,0,5.0",
+						"black2,other,10"
+					]
+				]
+			],
+			[
+				159157.894736842,
+				[
+					[
+						"Image Flash",
+						"0,0,5.0",
+						"black2,other,10"
+					]
+				]
+			]
+		]
+	}
+}
