@@ -1,0 +1,32 @@
+{
+	"storyName": "Deceiver.",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "fraud",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"deceiver",
+			"fraud",
+			[
+				55,
+				60,
+				75
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
